@@ -24,3 +24,6 @@ No Unit Test
 2. Solve for each piece of the problem
 3. Bring pieces together
 4. Print final output to screen
+
+## Whats Next?
+* The next lab is located [here](https://github.com/Zipcoder/ZCW-MicroLabs-OOP-SumOfInput).
