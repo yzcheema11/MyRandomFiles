@@ -1,21 +1,17 @@
 # ZCW-MicroLabs-OOP-TooLargeTooSmall
 
-# Too Large Too Small
+# Guessing Game; Too Large Too Small
 
 ## Objectives
-
-1. To demonstrate your understanding of objects
-2. To demonstrate your understanding of operators
-3. To demonstrate your understanding of user input
-4. To demonstrate your understanding of functions
-
+* To demonstrate object instantation/declaration, operators, user input, and functions.
 
 ## Overview
-
-Write a guessing game where the user has to guess a secret number. After every guess the program tells the user whether their number was too large or too small. At the end the number of tries needed should be printed. It counts only as one try if they input the same number multiple times consecutively.
+* Write a guessing game which prompts a user to guess a myster number.
+* After every guess the program should display some variation of "too large", "too small", "correct guess", respectively.
+* Upon termination, the program should display the number of guesses before successfully guessing correctly.
+* A number that is input consecutively, should register as a single guess.
 
 ## Unit Test
-
 No Unit Test
 
 ## Instructions
