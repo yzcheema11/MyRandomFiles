@@ -6,7 +6,7 @@
 * To demonstrate object instantation/declaration, operators, user input, and functions.
 
 ## Overview
-* Write a guessing game which prompts a user to guess a myster number.
+* Write a guessing game which prompts a user to guess a mystery number.
 * After every guess the program should display some variation of "too large", "too small", "correct guess", respectively.
 * Upon termination, the program should display the number of guesses before successfully guessing correctly.
 * A number that is input consecutively, should register as a single guess.
