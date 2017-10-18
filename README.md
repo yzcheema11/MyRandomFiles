@@ -1,4 +1,4 @@
-# ZCW-MicroLabs-OOP-TooLargeTooSmall
+# ZCW-MicroLabs-JavaFundamentals-TooLargeTooSmall
 
 # Guessing Game; Too Large Too Small
 
